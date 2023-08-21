@@ -1,3 +1,2 @@
 libcpp-example-2-dependency
 cpp-example-2-dependency
-requests==2.18.4
